@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/WKND/language-masters/en:/",
+    "/content/WKND/language-masters/en/:/en/",
+    "/content/WKND/language-masters/fr/:/fr/",
+    "/content/WKND/language-masters/fr:/fr",
+    "/content/WKND/language-masters/es/:/es/",
+    "/content/WKND/language-masters/es:/es",
+    "/content/WKND/language-masters/ja/:/ja/",
+    "/content/WKND/language-masters/ja:/ja",
+    "/content/WKND/language-masters/de/:/de/",
+    "/content/WKND/language-masters/de:/de",
+    "/content/WKND/configuration:/.helix/config.json",
+    "/content/WKND/metadata:/metadata.json",
+    "/content/WKND/redirects:/redirects.json",
+    "/content/WKND/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/WKND/",
+    "/content/dam/WKND/"
   ]
 }
